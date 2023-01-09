@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-19T17:54:59 IST" name="Default suite" finished-at="2022-12-19T17:55:02 IST" duration-ms="3431">
+    <groups>
+    </groups>
+    <test started-at="2022-12-19T17:54:59 IST" name="Default test" finished-at="2022-12-19T17:55:02 IST" duration-ms="3431">
+      <class name="usingDatabase.UsingBaseTest">
+        <test-method is-config="true" signature="connectToDB()[pri:0, instance:usingDatabase.UsingBaseTest@3c7f66c4]" started-at="2022-12-19T17:54:59 IST" name="connectToDB" finished-at="2022-12-19T17:54:59 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDB -->
+        <test-method signature="createRequest()[pri:0, instance:usingDatabase.UsingBaseTest@3c7f66c4]" started-at="2022-12-19T17:54:59 IST" name="createRequest" finished-at="2022-12-19T17:55:02 IST" duration-ms="3386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRequest -->
+        <test-method is-config="true" signature="disconnectToDB()[pri:0, instance:usingDatabase.UsingBaseTest@3c7f66c4]" started-at="2022-12-19T17:55:02 IST" name="disconnectToDB" finished-at="2022-12-19T17:55:02 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectToDB -->
+      </class> <!-- usingDatabase.UsingBaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
